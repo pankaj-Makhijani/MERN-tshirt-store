@@ -1,0 +1,15 @@
+{
+  "name": "testback",
+  "version": "1.0.0",
+  "description": "my test project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "pankaj makhijani",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
